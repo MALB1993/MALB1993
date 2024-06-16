@@ -34,5 +34,6 @@ I am currently looking to collaborate with international companies and innovativ
 
 - **GitHub**: [MALB1993](https://github.com/MALB1993)
 - **Email**: malb1993@outlook.com
+- **Email**: mostafa.alaeddin@outlook.de
 
 Let's connect and create something amazing together!
