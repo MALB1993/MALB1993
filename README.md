@@ -1,4 +1,4 @@
-# Hi there, I'm Mostafa Alaeddin Barghamadi 👋
+# Hi there, I'm Mostafa Alaeddin 👋
 
 ## About Me
 
