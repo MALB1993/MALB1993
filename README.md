@@ -5,10 +5,10 @@
 I'm a Fullstack Developer specializing in PHP, Laravel, and React. With over 5 years of experience in web development, I have built several reputable e-commerce websites.
 
 ## Skills
-Languages & Frameworks: PHP, Laravel, React, C#
-Frontend Development: HTML, CSS, JavaScript
-Backend Development: MySQL, RESTful APIs
-Tools & Platforms: Git, Docker, AWS, GitHub
+- **Languages & Frameworks:** PHP, Laravel, React, C#
+- **Frontend Development:** HTML, CSS, JavaScript
+- **Backend Development:** MySQL, RESTful APIs
+- **Tools & Platforms:** Git, Docker, AWS, GitHub
 
 
 ## Experience
