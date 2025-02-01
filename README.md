@@ -1,39 +1,21 @@
-# Hi there, I'm Mostafa Alaeddin 👋
-
-## About Me
-
-I'm a Fullstack Developer specializing in PHP, Laravel, and React. With over 5 years of experience in web development, I have built several reputable e-commerce websites.
-
-## Skills
-- **Languages & Frameworks:** PHP, Laravel, React, C#, Python.
-- **Frontend Development:** HTML, CSS, JavaScript
-- **Backend Development:** MySQL, RESTful APIs
-- **Tools & Platforms:** Git, Docker, AWS, GitHub
+# 💫 About Me:
+Sure! Here's how I'd answer those based on your profile:<br><br>🔭 **I’m currently working on**  <br>I'm working on various web development projects, including e-commerce sites, and enhancing my skills in Python and React. Additionally, I'm preparing for my university exams and collaborating on a project related to the Faculty of Engineering.<br><br>👯 **I’m looking to collaborate on**  <br>I'm looking to collaborate on innovative web development projects, especially in e-commerce, with international companies or startups. I'm particularly interested in projects that involve PHP, Laravel, and React.<br><br>🤝 **I’m looking for help with**  <br>I'm always open to learning more about Python libraries and improving my knowledge of module writing and importing. I would appreciate guidance on advanced Python topics and best practices in full-stack development.<br><br>🌱 **I’m currently learning**  <br>I'm currently learning advanced Python concepts and focusing on strengthening my skills in web development, particularly in the integration of backend and frontend technologies.<br><br>💬 **Ask me about**  <br>Feel free to ask me about web development, PHP, Laravel, React, and my experience in building e-commerce sites. I'm also open to discussing topics related to network engineering and software development.<br><br>⚡ **Fun fact**  <br>I love traveling and exploring new places, and I'm always on the lookout for fresh perspectives, both in my personal and professional life. Also, I used to study Internet and Wide Network Engineering, and I'm currently combining that knowledge with my development work.
 
 
-## Experience
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mostafa.alaeddin@outlook.de) 
 
-- **E-commerce Development**: Built several reputable online stores
-- **Team Collaboration**: Experienced in working with agile teams
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Joomla](https://img.shields.io/badge/joomla-%235091CD.svg?style=for-the-badge&logo=joomla&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MALB1993&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MALB1993&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MALB1993&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## Education
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=MALB1993&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-I'm currently a student in Internet and Wide Network Engineering at the University of Applied Science and Technology. Alongside my studies, I have been continuously learning and working in the field of web development for the past 5 years.
+---
+[![](https://visitcount.itsvg.in/api?id=MALB1993&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Interests
-
-When I'm not coding, I enjoy:
-- Reading books 📚
-- Working out and staying fit 💪
-- Traveling and exploring new places 🌍
-
-## Looking For
-
-I am currently looking to collaborate with international companies and innovative startups. If you have an exciting project or opportunity, feel free to reach out!
-
-## Get in Touch
-
-- **GitHub**: [MALB1993](https://github.com/MALB1993)
-- **Email**: mostafa.alaeddin@outlook.de
-
-Let's connect and create something amazing together!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
